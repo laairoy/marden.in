@@ -1,4 +1,8 @@
-#others
+# logs
+logs
+*.log
+
+# others
 node_modules
 .hugo_build.lock
 
