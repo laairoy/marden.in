@@ -1,5 +1,5 @@
 +++
-title = 'Projects'
+title = 'Projetos'
 date = '2025-05-24T00:57:41-03:00'
 draft = false
 
