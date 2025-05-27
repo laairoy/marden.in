@@ -25,7 +25,7 @@ layoutBackgroundHeaderSpace = false
 ---
 
 {{< button href="curriculo.pdf" target="_self" >}}
-Resumo completo
+Baixar Currículo
 {{< /button >}}
 
 ## Experiência Profissional
