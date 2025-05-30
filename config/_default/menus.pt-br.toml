@@ -13,22 +13,22 @@
 [[main]]
   name = "sobre"
   pageRef = "about"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "resumo"
   pageRef = "resume"
-  weight = 10
+  weight = 30
 
 #[[main]]
 #  name = "projetos"
 #  pageRef = "projects"
-#  weight = 10
+#  weight = 40
 
 [[main]]
   name = "blog"
   pageRef = "posts"
-  weight = 10
+  weight = 50
 
 #[[main]]
 #  name = "Parent"
@@ -65,7 +65,7 @@
 [[main]]
   name = "tags"
   pageRef = "tags"
-  weight = 30
+  weight = 100
 
 
 # -- Footer Menu --
