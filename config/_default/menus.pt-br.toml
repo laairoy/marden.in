@@ -30,31 +30,43 @@
   pageRef = "posts"
   weight = 50
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  name = "categorias"
+  #pageRef = "posts"
+  weight = 90
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "Arquitetura de Software"
+  pageRef = "categories/Arquitetura de Software"
+  parent = "categorias"
+  weight = 20
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "Padrões de Projeto"
+  parent = "categorias"
+  pageRef = "categories/Padrões de Projeto"
+  weight = 20
+
+[[main]]
+  name = "Algoritmos e Estrutura de Dados"
+  parent = "categorias"
+  pageRef = "categories/Algoritmos e Estrutura de Dados"
+  weight = 20
 
 #[[subnavigation]]
-#  name = "An interesting topic"
-#  pageRef = "tags/interesting-topic"
+#  name = "Padrões de Projeto"
+#  pageRef = "tags/hello"
 #  weight = 10
-
+#
 #[[subnavigation]]
-#  name = "My Awesome Category"
-#  pre = "github"
-#  pageRef = "categories/awesome"
+#  name = "Algoritmos e Estrutura de Dados"
+#  pageRef = "tags/hello"
+#  weight = 10
+#
+#[[subnavigation]]
+#  name = "Arquitetura de Software"
+#  #pre = "github"
+#  pageRef = "categories/Arquitetura de Software"
 #  weight = 20
 
 #[[main]]
@@ -62,10 +74,10 @@
 #  pageRef = "categories"
 #  weight = 20
 
-[[main]]
-  name = "tags"
-  pageRef = "tags"
-  weight = 100
+#[[main]]
+#  name = "tags"
+#  pageRef = "tags"
+#  weight = 100
 
 
 # -- Footer Menu --
@@ -73,12 +85,12 @@
 # the copyright notice. Configure as per the main menu above.
 
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+  name = "tags"
+  pageRef = "tags"
+  weight = 10
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+[[footer]]
+  name = "categorias"
+  pageRef = "categories"
+  weight = 20

@@ -95,7 +95,7 @@ Baixar Currículo
         <tr>
             <td>Microsoft Certified: Azure Fundamentals</td>
             <td>Microsoft</td>
-            <td>{{< badge >}}-{{< /badge >}}</td>
+            <td></td>
         </tr>
     </tbody>
 </table>
