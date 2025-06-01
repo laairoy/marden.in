@@ -5,6 +5,7 @@ title = "Olá para um novo mundo!"
 summary = "This is my first post on my site"
 categories = ["Algoritmos e Estrutura de Dados", "Arquitetura de Software", "Padrões de Projeto"]
 tags = ["hello"]
+heroStyle = "Background"
 +++
 
 ## Olá Mundo
