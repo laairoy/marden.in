@@ -17,7 +17,7 @@ title = "Marden"
  [params.author]
    name = "Marden Oliveira"
    email = "contato@marden.in"
-   image = "img/profile.png"
+   image = "img/profile.jpg"
    imageQuality = 96
    headline = "Desenvolvedor Backend"
    #bio = "A little bit about you"
