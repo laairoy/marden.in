@@ -32,12 +32,11 @@ Baixar Currículo
 
 {{< timeline >}}
 
-{{< timelineItem icon="code" header="SRE (Site Reliability Engineer)" badge="Jun 2023 - Jan 2024" subheader="GFT (Remoto)" >}}
+{{< timelineItem icon="code" header="Desenvolvedor Backend" badge="Jun 2023 - Jan 2024" subheader="GFT (Remoto)" >}}
 <ul>
-    <li> Atuou com o Banco Itaú, garantindo a conformidade das aplicações com as melhores práticas de confiabilidade do AWS Well-Architected Framework </li>
-    <li> Gerenciou a automação da infraestrutura com Terraform, CloudFormation e pipelines CI/CD (GitHub Actions) </li>
-    <li> Monitorou incidentes, assegurando SLAs através de Prometheus, Grafana e AWS CloudWatch </li>
-    <li> Colaborou com equipes para otimizar os recursos de infraestrutura em ambiente DevOps e Scrum </li>
+    <li> Otimização na infraestrutura de microserviços Java com Spring Boot, garantido alta disponibilidade dos serviços </li>
+    <li> Aplicação das melhores práticas de confiabilidade do Well-Architected Framework utilizando Terraform e CloudFormation para configuração dos recursos AWS </li>
+    <li> Monitoramento com Prometheus e Grafana, garantindo o SLA das aplicações </li>
 </ul>
 {{< /timelineItem >}}
 
