@@ -32,6 +32,14 @@ Baixar Currículo
 
 {{< timeline >}}
 
+{{< timelineItem icon="code" header="Desenvolvedor Backend" badge="Jul 2025 - Atual" subheader="Docato (Híbrido)" >}}
+<ul>
+    <li> Desenvolvimento de aplicações em Python para leitura, análise e processamento de arquivos de planilhas </li>
+    <li> Desenvolvimento de sistemas assíncronos e escaláveis baseados em filas com RabbitMQ e AWS </li>
+    <li> Estruturação e otimização de queries SQL para migração de dados, inserções e atualizações em larga escala </li>
+</ul>
+{{< /timelineItem >}}
+    
 {{< timelineItem icon="code" header="Desenvolvedor Backend" badge="Jun 2023 - Jan 2024" subheader="GFT (Remoto)" >}}
 <ul>
     <li> Otimização na infraestrutura de microserviços Java com Spring Boot, garantido alta disponibilidade dos serviços </li>
